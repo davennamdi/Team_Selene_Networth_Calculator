@@ -128,7 +128,7 @@
                                 <input type="text" id="property">
                             </div><br />
                             <div class="assets__contents">
-                                    <button class="calculate__btn">Calculate Total</button>
+                                    <button class="calculate__btn">Calculate Assets</button>
                                     <input type="text" id="total">
                                 </div>
                 </div>
@@ -150,7 +150,7 @@
                                         <input type="text" id="property">
                                     </div><br />
                                 <div class="liability__contents">
-                                        <button class="liabilities__btn">Calculate Total</button>
+                                        <button class="liabilities__btn">Calculate Liabilities</button>
                                         <input type="text" id="total">
                                     </div>
                     </div>
